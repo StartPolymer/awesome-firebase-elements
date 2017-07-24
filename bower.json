@@ -1,0 +1,18 @@
+{
+  "name": "awesome-firebase-elements",
+  "description": "A collection of awesome Firebase elements.",
+  "keywords": [
+    "firebase",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "firebase-nest": "PolymerEl/firebase-nest",
+    "geo-query": "jifalops/geo-query",
+    "polymerfire": "firebase/polymerfire"
+  },
+  "private": true
+}
