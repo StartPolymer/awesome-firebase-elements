@@ -10,9 +10,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "firebase-nest": "PolymerEl/firebase-nest",
-    "geo-query": "jifalops/geo-query",
-    "polymerfire": "firebase/polymerfire"
+    "firebase-nest": "PolymerEl/firebase-nest#^0.11.2",
+    "geo-query": "jifalops/geo-query#0.3.1",
+    "polymerfire": "firebase/polymerfire#^2.0.0"
   },
   "private": true
 }
